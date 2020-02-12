@@ -1,0 +1,218 @@
+body {
+  margin: 0;
+  background-color:#ebebeb;
+}
+
+.header-container {
+  border: 1px solid grey;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  padding: 15px;
+}
+
+.img-logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ig-logo a  {
+  font-size: 25px;
+  color: black;
+  padding-right: 15px;
+  border-right: 1px solid black;
+}
+
+.ig-logo-name {
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.search-bar {
+    border: 1px solid grey;
+    padding-left: 90px;
+    background-color: #f2f0f0;
+}
+
+.search-bar span {
+  color: grey;
+  font-size: 10px;
+}
+
+.search-bar input{
+  outline: none;
+  border: none;
+  padding: 6px;
+  background-color: #f2f0f0;
+}
+
+.nav-love-id {
+  font-size: 25px;
+}
+
+.navigation a {
+  color: black;
+
+}
+
+.heart a {
+  color: black;
+  padding-left: 20px;
+}
+
+.sign-in a {
+  color: black;
+  padding-left: 20px;
+}
+
+.nav-love-id {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.body-container {
+
+  margin-top: 3%;
+  margin-right: 15%;
+  margin-left: 15%;
+
+}
+
+.float-right {
+  float: right;
+  width: 30%;
+  margin-left:  15px;
+}
+
+.id-info {
+  display: flex;
+  align-items: center;
+}
+
+.profile-pic img {
+  border: 1px solid grey;
+  border-radius: 50px;
+}
+
+.username span {
+  font-weight: 60px;
+  font-family:
+}
+
+.nickname {
+  width: 160px;
+}
+
+.story-box {
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.story-watch {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+
+.stories span {
+  color: grey;
+  font-size: 15px;
+}
+
+.watch-all span {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.one-style-container {
+  display: flex;
+}
+
+.one-style img{
+  border-radius: 50px;
+  border: 2px solid red;
+  padding: 2px;
+}
+
+.profile-names {
+  padding-left: 8px;
+}
+
+.username span {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.nickname span {
+  font-size: 11px;
+  color: grey;
+
+}
+
+.follow span {
+
+  color: #5eaeeb;
+}
+
+.li-box {
+  margin-right: 20px;
+
+}
+
+.li {
+  display: inline;
+  text-decoration: none;
+  color: grey;
+  font-size: 12px;
+
+}
+
+.li a {
+  text-decoration: none;
+  color: grey;
+  padding-right: 6px;
+}
+
+.p{
+  display: flex;
+  color: grey;
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.p span {
+  padding: 5px;
+}
+
+ .header {
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  border: 1px solid grey;
+  padding: 8px;
+  background-color: white;
+  width:665px;
+
+}
+
+.img-name {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  padding-left: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.ellipsis {
+  padding-right: 20px;
+}
